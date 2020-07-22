@@ -163,6 +163,11 @@ extern LCM_DRIVER cpt_claa101fp01_dsi_vdo_8163_lcm_drv;
 extern LCM_DRIVER h070d_18dm_lcm_drv;
 extern LCM_DRIVER hx8394a_hd720_dsi_vdo_tianma_lcm_drv;
 extern LCM_DRIVER hx8394d_hd720_dsi_vdo_tianma_lcm_drv;
+//by nik-kst LCM porting begin
+extern LCM_DRIVER r6135_hd720_dsi_vdo_lcm_drv;
+extern LCM_DRIVER r6135otp_hd720_dsi_vdo_lcm_drv;
+extern LCM_DRIVER nt35521s_hd720_dsi_vdo_lcm_drv;
+//by nik-kst LCM porting end
 extern LCM_DRIVER cpt_clap070wp03xg_sn65dsi83_lcm_drv;
 extern LCM_DRIVER nt35520_hd720_tm_lcm_drv;
 extern LCM_DRIVER nt35520_hd720_boe_lcm_drv;

@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
  * GNU General Public License for more details.
  */
-
+#if 0//by nik-kst LCM driver porting
 #include <linux/regulator/consumer.h>
 #include <linux/string.h>
 #include <linux/kernel.h>
@@ -191,4 +191,4 @@ int display_bias_disable(void)
 }
 EXPORT_SYMBOL(display_bias_disable);
 #endif
-
+#endif//end by nik-kst LCM driver porting
